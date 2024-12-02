@@ -1,7 +1,7 @@
-Name:Lokesh Boligorla
+**Name:Lokesh Boligorla
 ID:CTO8DS9817
 Domain:"FULL STACK WEB DEVELOPMENT"
-Duration:November to December 2024
+Duration:November to December 2024**
 
 **Portfolio Overview**
 Welcome to my professional portfolio website! I’m [Your Name], a full-stack developer passionate about building high-performance, scalable, and innovative web applications. This platform is designed to showcase my expertise, recent projects, and the skills that allow me to deliver solutions from the front-end to the back-end, all while prioritizing user experience, functionality, and clean code.
