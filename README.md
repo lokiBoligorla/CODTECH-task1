@@ -27,7 +27,8 @@ This portfolio isn’t just a showcase of my work — it's an invitation for you
 ![image](https://github.com/user-attachments/assets/1ce985eb-8d6e-47b4-af64-55f4c76a66b6)
 ![image](https://github.com/user-attachments/assets/2d129cc9-1e27-4317-b5c1-cfd02f482db8)
 ![image](https://github.com/user-attachments/assets/1acdc6d4-9372-423e-af8d-b3650cd28fdb)
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/33325f7b-6a68-4287-9d25-459801db9748)
+
 
 
 
